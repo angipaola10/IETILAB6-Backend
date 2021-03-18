@@ -8,6 +8,7 @@
   https://hub.docker.com/repository/docker/angipaola10/task-planner-backend
 
 ## Endpoints
+* Get users: https://task-planner-api.herokuapp.com/users
 * Create user: https://task-planner-api.herokuapp.com/users
 * Get user by id: https://task-planner-api.herokuapp.com/users/{userId}
 * Update user: https://task-planner-api.herokuapp.com/users/
